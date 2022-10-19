@@ -6,7 +6,8 @@ public class TC_01 {
 	{
 		int a=10;
 		int b=23;
-		System.out.println(a+b);
+		int c=a+b;
+		System.out.println(c);
 		
 
 	}
